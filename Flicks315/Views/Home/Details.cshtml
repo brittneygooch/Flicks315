@@ -1,0 +1,22 @@
+﻿@model Flicks315.Models.DetailsVm
+@{
+    //Layout = null;
+}
+
+<h1>
+    @Model.Greeting
+</h1>
+<div>
+   Title: @Model.Movie.Title<br />
+   Rating:  @Model.Movie.Rating<br />
+   Description: @Model.Movie.Description<br />
+
+</div>
+<div>
+    @foreach (var a in Model.Actors)
+    {
+     <div>@a.Name </div><br />
+     <div>@a.Awards</div>
+        <hr />
+    }
+</div>

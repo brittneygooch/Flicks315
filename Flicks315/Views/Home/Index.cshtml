@@ -1,0 +1,30 @@
+﻿@model Flicks315.Models.IndexVm
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>@Model.Greeting</h1>
+    <table class="table table-striped table-responsive">
+        <thead>
+            <tr>
+                <td>Title</td>
+                <td>Rating</td>
+                <td>Description</td>
+            </tr>
+        </thead>
+        @foreach (var m in Model.MyMovies)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(m.Title, "Details", "Home", new { id = m.MovieId }, "")
+
+                </td>
+                <td>@m.Rating</td>
+                <td>@m.Description</td>
+            </tr>
+        }
+    </table>
+
+</div>
+
