@@ -1,0 +1,14 @@
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\obj\Debug\Flicks315.Data.csprojResolveAssemblyReference.cache
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\Flicks315.Data.dll.config
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\Flicks315.Data.dll
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\Flicks315.Data.pdb
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\EntityFramework.dll
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\Flicks315.Data.Models.dll
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\Flicks315.Data.Models.pdb
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\EntityFramework.xml
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\obj\Debug\Flicks315.Data.dll
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\obj\Debug\Flicks315.Data.pdb
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\obj\Debug\Flicks315.Data.Migrations.MovieIntialSetup.resources
+c:\users\brittney\documents\visual studio 2013\Projects\Flicks315\Flicks315.Data\obj\Debug\Flicks315.Data.csproj.GenerateResource.Cache

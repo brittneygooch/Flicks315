@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flicks315", "Flicks315\Flicks315.csproj", "{487DADBF-4F0F-4DAD-94AB-08E4475C5448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flicks315.Data", "Flicks315.Data\Flicks315.Data.csproj", "{CE465493-44D9-4607-B1F0-15AC593502C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flicks315.Data.Models", "Flicks315.Data.Models\Flicks315.Data.Models.csproj", "{1B9FFBA8-7F4B-4602-8F54-FE8B089E1824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487DADBF-4F0F-4DAD-94AB-08E4475C5448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487DADBF-4F0F-4DAD-94AB-08E4475C5448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487DADBF-4F0F-4DAD-94AB-08E4475C5448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487DADBF-4F0F-4DAD-94AB-08E4475C5448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE465493-44D9-4607-B1F0-15AC593502C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE465493-44D9-4607-B1F0-15AC593502C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE465493-44D9-4607-B1F0-15AC593502C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE465493-44D9-4607-B1F0-15AC593502C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9FFBA8-7F4B-4602-8F54-FE8B089E1824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9FFBA8-7F4B-4602-8F54-FE8B089E1824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9FFBA8-7F4B-4602-8F54-FE8B089E1824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9FFBA8-7F4B-4602-8F54-FE8B089E1824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
